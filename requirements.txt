@@ -1,0 +1,11 @@
+torch
+tqdm
+transformers
+requests
+pdf2image
+pypdf
+jupyter
+accelerate
+huggingface_hub
+peft
+openai
